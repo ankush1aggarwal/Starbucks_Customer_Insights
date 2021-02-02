@@ -2,7 +2,7 @@
 
 ## Using Starbucks app data to predict successful offers
 
-This repository has all the code and report done as part of Udacity Machine Learning Engineer Nanodegree Capstone project.
+This repository has all the code and report done as part of Udacity Machine Learning Engineer with AWS Nanodegree Capstone project.
 
 ## 1. Installations
 This project was written in Python, using Jupyter Notebook Instance on Amazon SageMaker. The relevant Python packages for this project are as follows:
@@ -28,7 +28,7 @@ time
 matplotlib
 
 ## 2. Project Motivation
-This project is the Capstone project of my Machine Learning nanodegree with Udacity. For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
+This project is the Capstone project of my Machine Learning Engineer with AWS Nanodegree with Udacity. For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
 In this project, I use the data to answer 2 main questions:
 
