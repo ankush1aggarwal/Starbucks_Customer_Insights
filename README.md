@@ -1,6 +1,6 @@
 # Starbucks_Customer_Insights
 
-# Using Starbucks app user data to predict effective offers
+# Using Starbucks app data to predict successful offers
 
 This repository has all the code and report done as part of Udacity Machine Learning Engineer Nanodegree Capstone project.
 
