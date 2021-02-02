@@ -8,14 +8,23 @@ This repository has all the code and report done as part of Udacity Machine Lear
 This project was written in Python, using Jupyter Notebook Instance on Amazon SageMaker. The relevant Python packages for this project are as follows:
 
 pandas
+
 numpy
+
 math
+
 sklearn.model_selection (train_test_split module)
+
 sklearn.preprocessing (StandardScaler)
+
 from sklearn.tree (DecisionTreeClassifier)
+
 sklearn.ensemble (RandomForestClassifier)
+
 sklearn.metrics (classification_report)
+
 time
+
 matplotlib
 
 # 2. Project Motivation
